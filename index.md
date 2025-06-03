@@ -4,12 +4,10 @@
 
 ### Lending Club Case Study
  Used the concepts of EDA to decipher which types of customers default on a loan
-
- <img width="974" alt="image" src="https://github.com/user-attachments/assets/df1de603-a09b-4e74-84fa-80ddc1571700" />
-
-
  [![View on GitHub](https://github.com/PiyaP-lab/MachineLearning/blob/test_branch/LendingClubCaseStudy/PiyaliPodder.ipynb)
 
+ <img width="974" alt="image" src="https://github.com/user-attachments/assets/df1de603-a09b-4e74-84fa-80ddc1571700" />   
+    
 ## Machine learning
 
 ### Bike Sharing Model
