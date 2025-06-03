@@ -30,12 +30,13 @@ Built a secure RAG pipeline using in-house OpenAI Langchain stack and Streamlit 
 
 
 # Automation Testing Portfolio
+---
 
 ## Behave Project using Selenium and Python for UI and API
 
  ### Internal Domino Data Lab environment automation
    
-  #### UI Automation (Selenium + Behave + Page Object Model)
+  ### UI Automation (Selenium + Behave + Page Object Model)
   - Developed a modular test automation framework using Behave (BDD) and Page Object Model (POM) to automate UI workflows in the Domino Data Lab web interface.
   - Automated critical test scenarios including project creation, model training workflows, and workspace management within the Domino platform.
   - Integrated database validation steps using psycopg2 to query Postgres-based metadata stores and validate backend data integrity after UI actions.
@@ -52,7 +53,7 @@ Built a secure RAG pipeline using in-house OpenAI Langchain stack and Streamlit 
           6.Created sanity, smoke, and regression suites to be run in CI pipelines using GitLab.
           7.Configured tests to run on Selenoid Grid for parallel browser execution during overnight runs.
     
-  ####  API Automation (Behave + Python Requests + DB Validation)
+  ### API Automation (Behave + Python Requests + DB Validation)
     - Developed test automation for internal REST APIs used to manage:
            1.Project creation and permissioning
            2.Model deployment (start/stop/check status)
@@ -65,7 +66,7 @@ Built a secure RAG pipeline using in-house OpenAI Langchain stack and Streamlit 
            6.Automated token-based API tests using encrypted credentials from env.json for security compliance.
            7.Generated test evidence and posted results to internal dashboards via APIs.
 
- #### Performance Testing (Locust + Prometheus + Grafana Integration)
+ ### Performance Testing (Locust + Prometheus + Grafana Integration)
         - Designed and executed performance test scenarios using Locust to simulate high user load on Domino APIs such as:
                1.launch_workspace
                2.execute_model
@@ -79,9 +80,9 @@ Built a secure RAG pipeline using in-house OpenAI Langchain stack and Streamlit 
 
 
     
- ## TDD  project using Selenium and JAVA
+ ##  TDD  project using Selenium and JAVA
 
- ### Fenergo-Based Application – TDD & Page Object Model (POM) Automation using Moon
+ ###  Fenergo-Based Application – TDD & Page Object Model (POM) Automation using Moon
    - Implemented automated test coverage for Fenergo's client lifecycle management workflows using Test-Driven Development (TDD) methodology.
    - Worked on a scalable test framework using Page Object Model (POM) in Java with Selenium, improving code reusability and reducing maintenance.
    - Deployed cross-browser UI tests on Moon, enabling efficient test execution across containers in Kubernetes.
