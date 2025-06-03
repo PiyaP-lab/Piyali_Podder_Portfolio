@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Piyali Podder</h1>
+
 # Data Science Portfolio 
 ---
 ## EDA Project
