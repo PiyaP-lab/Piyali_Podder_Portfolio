@@ -54,7 +54,7 @@ Created a secure RAG pipeline using Langchain & Streamlit to auto-generate Gherk
 
 ## 🧭 Behave Framework (Selenium + Python)
 
-### 🧩 Internal Domino Data Lab Automation
+### 🧩 Client Based Domino Data Lab Application
 
 #### 🖥 UI Automation
 - Modular BDD + POM framework for Domino web interface
