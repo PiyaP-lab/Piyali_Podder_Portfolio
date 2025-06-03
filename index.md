@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Piyali Podder</h1>
 <h3 align="center">"AI-Powered Automation Engineer | GenAI | TestOps | MLOps"</h3>
 Welcome to my portfolio! I specialize in building intelligent automation frameworks that integrate GenAI, LLMs, and cloud-native tools to streamline testing and deployment processes.
+
 ---
 
 ### 🔧 Core Competencies
