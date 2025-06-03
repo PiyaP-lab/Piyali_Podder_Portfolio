@@ -2,22 +2,6 @@
 <h1 align="center">Hi 👋, I'm Piyali Podder</h1>
 <h3 align="center">"AI-Powered Automation Engineer | GenAI | TestOps | MLOps"</h3>
 Welcome to my portfolio! I specialize in building intelligent automation frameworks that integrate GenAI, LLMs, and cloud-native tools to streamline testing and deployment processes.
-
-<p align="center">
-  <img src="/assets/img/Piyali_2.png" width="150" alt="Profile Picture">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyali-podder-610b78175">LinkedIn</a> |
-  <a href="https://github.com/PiyaP-lab/">GitHub</a>
-</p>
-
-<p align="center">
-  - 👩‍💻 I'm working on Automation Testing projects along with Data Science and AI/ML projects as part of the GEN-AI Practice.  
-  <br> - 🌱 Currently exploring <strong>RAG applications</strong> & <strong>Applied LLMs</strong>.  
-  <br> - 📫 Reach me at <strong>piyali.podder89@outlook.com</strong>.
-</p>
-
 ---
 
 ### 🔧 Core Competencies
