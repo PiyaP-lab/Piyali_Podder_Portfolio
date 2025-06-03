@@ -1,5 +1,4 @@
----
-layout: home
+
 title: "Piyali Podder"
 subtitle: "AI-Powered Automation Engineer | GenAI | TestOps | MLOps"
 ---
@@ -17,8 +16,8 @@ Welcome to my portfolio! I specialize in building intelligent automation framewo
 
 <p align="center">
   - 👩‍💻 I'm working on Automation Testing projects along with Data Science and AI/ML projects as part of the GEN-AI Practice.  
-  - 🌱 Currently exploring <strong>RAG applications</strong> & <strong>Applied LLMs</strong>.  
-  - 📫 Reach me at <strong>piyali.podder89@outlook.com</strong>.
+  <br> - 🌱 Currently exploring <strong>RAG applications</strong> & <strong>Applied LLMs</strong>.  
+  <br> - 📫 Reach me at <strong>piyali.podder89@outlook.com</strong>.
 </p>
 
 ---
