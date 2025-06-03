@@ -7,6 +7,7 @@ subtitle: "AI-Powered Automation Engineer | GenAI | TestOps | MLOps"
 Welcome to my portfolio! I specialize in building intelligent automation frameworks that integrate GenAI, LLMs, and cloud-native tools to streamline testing and deployment processes.
 
 <p align="center">
+  <h1 align="center">Hi 👋, I'm Piyali Podder</h1>
   <img src="/assets/img/Piyali_2.png" width="150" alt="Profile Picture">
 </p>
 
