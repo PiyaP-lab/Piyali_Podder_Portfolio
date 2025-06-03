@@ -1,20 +1,20 @@
-title: <p align="center"> Piyali Podder </p>
-logo: /assets/img/Piyali 2.png
+title: "Piyali Podder"
+logo: /assets/img/Piyali_2.png
 
-description:
+description: >
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/piyali-podder-610b78175">LinkedIn</a> |
-  <a href="https://github.com/PiyaP-lab/">GitHub</a>
-  
-  <br>
-   - 👨‍💻 I'm working on Automation Testing projects along with DataScience and AI/ML projects as a part of GEN-AI Practice 
-   - 🌱 I’m currently exploring about **RAG applications & Applied LLMs** 
-   - 📫 How to reach me **piyali.podder89@outlook.com**
-  </br>
-  
+    <a href="pdf/resume.pdf">Resume</a> |
+    <a href="https://www.linkedin.com/in/piyali-podder-610b78175">LinkedIn</a> |
+    <a href="https://github.com/PiyaP-lab/">GitHub</a>
+    <br><br>
+    👩‍💻 I'm working on Automation Testing projects along with Data Science and AI/ML projects as part of the GEN-AI Practice. <br>
+    🌱 I’m currently exploring <strong>RAG applications</strong> & <strong>Applied LLMs</strong>. <br>
+    📫 Reach me at <strong>piyali.podder89@outlook.com</strong>.
   </p>
 
-
-
 theme: jekyll-theme-minimal
+
+# Optional for better SEO / sharing
+name: Piyali Podder
+email: piyali.podder89@outlook.com
+url: "https://piyap-lab.github.io/Piyali_Podder_Portfolio"
