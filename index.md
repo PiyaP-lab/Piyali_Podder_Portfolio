@@ -28,7 +28,7 @@ Welcome to my portfolio! I specialize in building intelligent automation framewo
 - **Test Automation:** Selenium, Behave (BDD), Cucumber, Page Object Model (POM)
 - **AI/ML Integration:** LangChain, OpenAI, Prompt Engineering, Retrieval-Augmented Generation (RAG)
 - **Performance Testing:** Locust, Prometheus, Grafana
-- **CI/CD & DevOps:** GitLab CI/CD, Azure DevOps, Docker, Kubernetes
+- **CI/CD & DevOps:** GitLab CI/CD
 - **Cloud Platforms:** Azure, Domino Data Lab
 - **Data Handling:** PostgreSQL, SQL, Exploratory Data Analysis (EDA)
 - **Reporting & Visualization:** Allure, Power BI
