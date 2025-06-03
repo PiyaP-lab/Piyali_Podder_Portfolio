@@ -108,6 +108,6 @@ Created a secure RAG pipeline using Langchain & Streamlit to auto-generate Gherk
 
 ### 📫 Contact Me
 
-- **Email:** [piyali.podder@example.com](mailto:piyali.podder@example.com)
+- **Email:** [piyali.podder@example.com](mailto:piyali.podder89@outlook.com)
 - **LinkedIn:** [linkedin.com/in/piyali-podder](https://www.linkedin.com/in/piyali-podder/)
 - **GitHub:** [github.com/piyap-lab](https://github.com/piyap-lab)
