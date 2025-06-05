@@ -35,7 +35,7 @@ Used the concepts of EDA to decipher which types of customers default on a loan
 
 ### 🚲 Bike Sharing Model
 Built a multiple linear regression model for the prediction of demand for shared bikes.
-
+[📎 View Notebook](https://github.com/PiyaP-lab/MachineLearning/tree/test_branch/BikeRentalCaseStudy)
 ![Bike Sharing](https://github.com/user-attachments/assets/add1a5dd-259d-4fa7-be8c-0b3e3e3f33a0)
 
 ### 🏡 Housing Model
